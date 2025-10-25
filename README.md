@@ -3,7 +3,7 @@
 ## LIVE Batches
 - 16
 ```
-WIP -> DONE 
+WIP -> REVISIT 
 BOOKMARKS:
 1. Iterator design Pattern -> https://refactoring.guru/design-patterns/iterator
 2. Boxing in JS
@@ -22,19 +22,18 @@ six. On windows -> Resolve-DnsName google.com | On mac we do -> dig google.com
 15. 
 ```
 
-- 17
+- 17 *(DONE)*
 ```
-WIP -> 
 BOOKMARKS:
-1.
-2. 
+1. Understanding MVC -> https://chatgpt.com/c/68fc5b71-33ac-8321-8b1a-76376affed57
+2. Problems with MVC and Hexxagonal & DDD-> https://chatgpt.com/c/68fc5e32-0510-8324-a2af-c3e7dd649f16  
 ```
 
 - 18
 ```
-WIP -> 
+WIP ->  
 BOOKMARKS:
-1.
+1. 
 2. 
 ```
 
