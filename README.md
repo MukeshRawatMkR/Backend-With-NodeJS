@@ -29,20 +29,17 @@ BOOKMARKS:
 2. Problems with MVC and Hexxagonal & DDD-> https://chatgpt.com/c/68fc5e32-0510-8324-a2af-c3e7dd649f16  
 ```
 
-- 18
-```
-WIP ->  
-BOOKMARKS:
-1. 
-2. 
-```
+- 18 *(DONE)*
 
-- 19
-```
-WIP -> 
+- 19 *(DONE)*
+``` 
 BOOKMARKS:
-1.
-2. 
+1. Purpose of v8 engine in nodejs -> https://chatgpt.com/c/68fdad60-ad68-8321-898e-09df59ac2de6
+2. orinoco garbage collector tri-color -> https://chatgpt.com/c/68fdafb6-efa8-8321-bb69-b64c0d2d2b25
+3. More about Orinoco -> https://chatgpt.com/c/68fdb09c-3448-8320-9d29-726a707d6d77
+4. Orinoco official link -> https://v8.dev/blog/orinoco-parallel-scavenger
+5. Ignition(Interpretor) -> https://v8.dev/docs/ignition | byte code generator and  byte code interpreator both.
+six. Turbofan(optimization compiler) 
 ```
 
 - 20
@@ -58,5 +55,75 @@ BOOKMARKS:
 WIP -> 
 BOOKMARKS:
 1.
+2. 
+```
+
+## Node 22
+- 1 *(DONE)*
+
+- 2 *(DONE)*
+```
+BOOKMARKS:
+1. IO, Bindings, and many more -> https://chatgpt.com/c/68fcf1a4-6ba4-8321-acaa-a678ea82e675
+```
+
+- 3 *(DONE)*
+```
+BOOKMARKS:
+1. Total globals in NODEjs -> https://chatgpt.com/c/68fcfbe9-d618-8323-8c80-b6ba887fd5a8
+2. Some of them are -> process, --dirname, require, global, module, etc...
+```
+
+- 4 *(DONE)*
+``` 
+BOOKMARKS:
+1. Runtime Diff -> https://chatgpt.com/c/68fcff09-b810-8321-bb68-5202137454e1
+```
+
+- 5 *(DONE)*
+```
+BOOKMARKS:
+1. Module System in Node JS -> https://chatgpt.com/c/68fe053a-1b90-8321-acf1-363467f8bdde
+2. 
+```
+- six *(DONE)*
+
+- 7 *(DONE)*
+
+- 8 *(DONE)*
+
+
+
+## Node 23
+
+- 1 *()*
+```
+BOOKMARKS:
+1. 
+2. 
+```
+
+- 2 *()*
+```
+BOOKMARKS:
+1. 
+2. 
+```
+- 3 *()*
+```
+BOOKMARKS:
+1. 
+2. 
+```
+- 4 *()*
+```
+BOOKMARKS:
+1. 
+2. 
+```
+- 5
+```
+BOOKMARKS:
+1. 
 2. 
 ```
