@@ -96,6 +96,19 @@ BOOKMARKS:
 
 ## Node 23
 
+- 1 *(DONE)*
+
+- 2 *(DONE)*
+```
+BOOKMARKS:
+1. Telegraf package on npm -> https://www.npmjs.com/package/telegraf
+```
+
+- 3 *(DONE)*
+
+
+## Node 24
+
 - 1 *()*
 ```
 BOOKMARKS:
@@ -104,24 +117,6 @@ BOOKMARKS:
 ```
 
 - 2 *()*
-```
-BOOKMARKS:
-1. 
-2. 
-```
-- 3 *()*
-```
-BOOKMARKS:
-1. 
-2. 
-```
-- 4 *()*
-```
-BOOKMARKS:
-1. 
-2. 
-```
-- 5
 ```
 BOOKMARKS:
 1. 
