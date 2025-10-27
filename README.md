@@ -109,16 +109,146 @@ BOOKMARKS:
 
 ## Node 24
 
-- 1 *()*
+- 1 *(DONE)*
 ```
 BOOKMARKS:
-1. 
-2. 
+1. '--dirname' global doesn't work with es module & same for other globals as well.
+if we wanna use file path in es module then use -> import.meta.url
 ```
 
 - 2 *()*
 ```
 BOOKMARKS:
-1. 
-2. 
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await#top_level_await
+2. file sytem in nodejs -> https://nodejs.org/api/fs.html
 ```
+
+
+- 3 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+## Node 25 -> Assignment
+
+## Node Live Batches 26 & 27
+- 26 *(40:00min Left)*
+```
+BOOKMARKS:
+1. Express vs Springboot -> https://medium.com/deno-the-complete-reference/express-vs-springboot-hello-world-performance-comparison-dd066bf53858
+
+2. Fastify vs SpringBoot -> https://medium.com/deno-the-complete-reference/fastify-vs-springboot-hello-world-performance-comparison-411b83d165a1
+
+3. Fastify vs Go -> https://medium.com/deno-the-complete-reference/node-js-fastify-vs-go-performance-comparison-for-jwt-verify-and-mysql-query-73c056f19dcc
+
+4. 
+```
+
+- 27 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+## Node 28
+- 1 *(DONE)*
+
+- 2 *(DONE)*
+
+- 3 *(DONE)*
+
+- 4 *(DONE)*
+
+- 5 *(DONE)*
+```
+BOOKMARKS:
+1. Rest and REST API -> https://chatgpt.com/c/68ff0e50-33c0-8324-9f9c-78b3c7b7de38
+```
+
+- six *(DONE)*
+```
+BOOKMARKS:
+1. Other then RESTAPI -> https://chatgpt.com/c/68ff0e50-33c0-8324-9f9c-78b3c7b7de38
+```
+
+- 7 *(DONE)*
+```
+Notes:
+1. REST prfers JSON to send and recieve data over HTTP.
+2. SOAP -> XML | GRPC -> Protocol Buffers | GraphQL -> JSON.
+```
+
+- 8 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 9 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+
+
+## Node Live 29 - 34
+
+- 29 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 30 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 31 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 32 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 33 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+- 34 *()*
+```
+BOOKMARKS:
+1. 
+2.
+```
+
+
+
