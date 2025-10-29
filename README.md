@@ -206,7 +206,7 @@ BOOKMARKS:
 
 ## Node Live 29 - 34
 
-- 29 *(WIP -> 33:33)*
+- 29 *(WIP -> 30:40 Left)*
 ```
 BOOKMARKS:
 1. 
