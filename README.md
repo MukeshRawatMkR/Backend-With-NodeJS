@@ -147,13 +147,14 @@ BOOKMARKS:
 4. How does communication happen in microservices? -> https://chatgpt.com/c/69018ec5-ab30-8324-b2ae-bbe5e43ed79d 
 ```
 
-- 27 *(WIP -> 30:40 Left)*
+- 27 *(DONE)*
 ```
 BOOKMARKS and Notes:
 1. As a Backend Engineer, you should be heavily equipped with a knowledge of -> Network req, DB, Scalability and Architecture, Security and Business logic.
 2. TCP/IP and OSI -> https://chatgpt.com/c/6901aa6a-81b0-8321-bb32-0eeaca7e88db | https://chatgpt.com/c/6901aa6a-81b0-8321-bb32-0eeaca7e88db
-3. TCP/IP Layer -> Applicatoin layer -> client that initiates the request | Transport Layer -> sets the reliable(TCP) or unreliable(UDP) protocol & it also brakes down your data into components. | 
+3. TCP/IP Layer -> Applicatoin layer -> client that initiates the request | Transport Layer -> sets the reliable(TCP) or unreliable(UDP) protocol & it also brakes down your data into components. | Network Layer -> IP adressing. 
 4. OS manages transport layer. 
+5. Socket programming(not web socket) -> https://chatgpt.com/c/6901e90c-6860-8322-b465-4a42deda4982
 ```
 
 
