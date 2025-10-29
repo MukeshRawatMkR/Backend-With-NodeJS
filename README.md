@@ -135,7 +135,7 @@ BOOKMARKS:
 ## Node 25 -> Assignment
 
 ## Node Live Batches 26 & 27
-- 26 *(40:00min Left)*
+- 26 *(DONE)*
 ```
 BOOKMARKS:
 1. Express vs Springboot -> https://medium.com/deno-the-complete-reference/express-vs-springboot-hello-world-performance-comparison-dd066bf53858
@@ -144,10 +144,10 @@ BOOKMARKS:
 
 3. Fastify vs Go -> https://medium.com/deno-the-complete-reference/node-js-fastify-vs-go-performance-comparison-for-jwt-verify-and-mysql-query-73c056f19dcc
 
-4. 
+4. How does communication happen in microservices? -> https://chatgpt.com/c/69018ec5-ab30-8324-b2ae-bbe5e43ed79d 
 ```
 
-- 27 *()*
+- 27 *(WIP)*
 ```
 BOOKMARKS:
 1. 
