@@ -206,23 +206,27 @@ BOOKMARKS:
 
 ## Node Live 29 - 34
 
-- 29 *(WIP -> 30:40 Left)*
+- 29 *(DONE)*
 ```
 BOOKMARKS:
-1. 
-2.
+1. Socket Programming -> https://chatgpt.com/c/69024dd2-0e98-8320-9e15-dde5e0f18e02 
+2. what happens when you type and click www.google.com -> tcp conection is setup b/w client and server and on the top of this tcp connection http req and res comes, to settup this tcp connection we need to set up the socket address using socket object in server side, and client intiates the socket connection using socket object of its own and then data transfer actually happens. | https://chatgpt.com/c/6902e420-c4a4-8323-aa79-cf9c1daa06fd
 ```
 
 
-- 30 *()*
+- 30 *(DONE)*
 ```
 BOOKMARKS:
-1. 
-2.
+1. Middleware -> https://chatgpt.com/c/69031302-4754-8320-a37c-d3ef81f0942a
+2. how can the client send custom data to the server? -> 1. URL params | 2. query params | 3. request-body.
+3. Query params -> ?key1=value1&key2=value2&key3=value3 -> req.query
+4. URL params -> /constant/2 | '/constant/:id', dynamic routes -> req.params
+5. Request body ->  req.body -> undefined -> app.use(bodyParser.json()) //for json | for text -> bodyParser.text();
 ```
 
 
-- 31 *()*
+
+- 31 *(WIP)*
 ```
 BOOKMARKS:
 1. 
