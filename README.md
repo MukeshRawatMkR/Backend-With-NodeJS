@@ -226,15 +226,22 @@ BOOKMARKS:
 
 
 
-- 31 *(WIP)*
+- 31 *(DONE)*
 ```
 BOOKMARKS:
-1. 
-2.
+0. Installing packages globally is not recommended.
+1. npx nodemon <filePath.js> ->  to run the file via nodemon.
+2. In package we have srcipt -> to minify our command for running. -> npm start
+3. Without nodeon we can write -> node --watch <filePath.js>
+4. Package manager OS level -> https://chatgpt.com/c/6904357b-bcf0-8320-81aa-edb2d8d0457a
+5. environment variables -> https://chatgpt.com/c/69043a4d-9bd4-8321-b22c-be1a37e37fe2
+six. to make env variable in global on linux: export key=value, now type: env | 'set' on windows.
+7.  Note: nodemon doesn't track the .env file. we need to manually stop and restart the server in order to track it, not even node --watch tracks it.
+8. Express router -> https://expressjs.com/en/guide/routing.html | https://chatgpt.com/c/6904cfb3-5e74-8320-bc31-69750b57a8c4 
 ```
 
 
-- 32 *()*
+- 32 *(WIP -> )*
 ```
 BOOKMARKS:
 1. 
