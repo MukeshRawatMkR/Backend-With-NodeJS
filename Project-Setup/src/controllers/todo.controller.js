@@ -1,13 +1,24 @@
+const TodoService=require('../services/todo.service');
+const TodoRepository=require('../repositories/todo.repository');
+
+const todoService=new TodoService(new TodoRepository());
+
+
 function getTodos(req, res){
- console.log("todocontorller");
+const response=todoService.getAllTodos();
+    console.log("todocontorller");
     return res.json({
-        data:[]
-    });
-}
-function createTodo(req, res){
-    return res.json({
-        data:[]
+        data:response
     });
 }
 
-module.exports ={ getTodos, createTodo};
+function createTodo(req, res){
+    const todoText=req.body.todoText;
+    todoService.create(todoText);
+    console.log(todoText);
+    return res.json({
+        data:"New Todo Created"
+    })
+}
+
+module.exports = { getTodos, createTodo};
