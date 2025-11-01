@@ -244,8 +244,8 @@ six. to make env variable in global on linux: export key=value, now type: env | 
 - 32 *(WIP -> )*
 ```
 BOOKMARKS:
-1. 
-2.
+1. API versoning -> https://chatgpt.com/c/69059f3a-0860-8323-9fd6-b5eb32a646fb
+2. 
 ```
 
 
