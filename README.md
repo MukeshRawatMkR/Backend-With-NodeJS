@@ -245,24 +245,26 @@ six. to make env variable in global on linux: export key=value, now type: env | 
 ```
 BOOKMARKS:
 1. API versoning -> https://chatgpt.com/c/69059f3a-0860-8323-9fd6-b5eb32a646fb
-2. 
+```
+
+- 33 *(DONE)*
+
+- 34 *(DONE)*
+```
+BOOKMARKS: High Level Architecture of a code submission platform.
+1. fork bomb -> https://en.wikipedia.org/wiki/Fork_bomb 
+2. API Gateway -> https://chatgpt.com/c/6906daa6-d4fc-8323-b3fd-0e50cc5abcda
+3. msg queues & pub-sub architecture -> https://chatgpt.com/c/6906db83-5124-8322-9198-fadbe40eb3cc
+4. Polling vs web socket -> https://chatgpt.com/c/6906ec72-8dc4-8324-8425-79062ae16742
+5. Web Socket -> https://vishalrana9915.medium.com/understanding-websockets-in-depth-6eb07ab298b3
+six. VM -> https://chatgpt.com/c/6906f304-d974-8320-bf6f-6f5eed44d698
+7. Containers -> https://chatgpt.com/c/69072a15-f5dc-8322-ae93-0bffbaf0f083
+8. 20:20 left H/W
 ```
 
 
-- 33 *()*
-```
-BOOKMARKS:
-1. 
-2.
-```
+## DATABASE 35 - 42
 
-
-- 34 *()*
-```
-BOOKMARKS:
-1. 
-2.
-```
 
 
 
